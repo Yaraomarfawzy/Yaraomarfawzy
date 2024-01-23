@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/yara-omar-72b6a9240/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Yaraomar4" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gamal-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yara-omar-72b6a9240/" target="_blank"><img src="https://img.shields.io/badge/-yara%20omar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/Yaraomar4" target="_blank"><img src="https://img.shields.io/badge/-yara%20omar-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
