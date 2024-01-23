@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Ahmed Gamal's profile!
+  Welcome to Yara omar's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p> 
 
 - 🏢 I'm a Front-end web developer 
-- 👨‍💻 As a  , I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As sadat  , I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, VueJS or anything related to web development. 
 <!--
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Connect with Me :
 
-<a href=https://www.linkedin.com/in/yara-omar-72b6a9240/"" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yara-omar-72b6a9240/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Yaraomar4" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gamal-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
