@@ -73,16 +73,13 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/yara-omar-72b6a9240" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://www.facebook.com/yourprofile" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Facebook_Logo_%282019%29.png" alt="Facebook" height="40" width="40" />
-  </a>
   <a href="https://leetcode.com/u/Yaraomarfawzy/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="LeetCode" height="40" width="40" />
   </a>
   <a href="mailto:yaraomar238@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" width="40" />
   </a>
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank">
+  <a href="https://wa.me/+201015323418" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40" />
   </a>
   <a href="https://t.me/Yaraomar4" target="_blank">
